@@ -1,1 +1,1 @@
-Sitemap: https://yacssteam.github.io/dumpster-rental/sitemap.xml
+Sitemap: https://yacssteam.github.io/sample/sitemap.xml
